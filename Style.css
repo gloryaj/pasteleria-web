@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-color: #f8b500;
+    background-color: #1500f8;
     color: #fff;
     padding: 20px;
     text-align: center;
@@ -38,3 +38,10 @@ main {
     text-align: center;
     margin: 10px auto;
 }
+
+.thumb img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
